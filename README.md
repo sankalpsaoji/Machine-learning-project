@@ -1,2 +1,2 @@
 # Machine learning project
- Comparison on Neural Networks with SVM on titanic Dataset
+ Comparison of Neural Networks with SVM on titanic Dataset
