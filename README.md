@@ -1,2 +1,2 @@
 # Machine learning project
- Comparison of Neural Networks with SVM on titanic Dataset
+ Comparing the accuracies of two machine learning algorithms such as support vector machines to three-layer neural network for  classification of people survived or not survived on the titanic dataset.
